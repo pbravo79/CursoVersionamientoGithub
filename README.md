@@ -1,4 +1,5 @@
 # CursoVersionamientoGithub
 Curso de versionamiento de GitHub Enero 2025
-Modificación del archivo README.md
-Agregandole comentarios al arhivo principal, para guardar los cambios
+
+Modificación a las 2:16 hora del 13-01-2025
+Para generar la última versión
