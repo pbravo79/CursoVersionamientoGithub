@@ -7,3 +7,5 @@ Para generar la última versión
 Autor: Patricia Bravo Salazar
 
 Cambios para visualizar el braunche
+
+Crear una nueva rama Linea nueva 2
